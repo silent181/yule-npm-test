@@ -1,0 +1,19 @@
+{
+  "name": "yule-npm-test",
+  "version": "1.0.0",
+  "description": "test only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silent181/yule-npm-test.git"
+  },
+  "author": "yule57",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silent181/yule-npm-test/issues"
+  },
+  "homepage": "https://github.com/silent181/yule-npm-test#readme"
+}
